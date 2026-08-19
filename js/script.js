@@ -6,7 +6,7 @@
  */
 
 const EVENT_CONFIG = {
-  time: "08:15 SÁNG",
+  time: "15:00 CHIỀU",
   day: "22-08-2026",
   date: "THỨ BẢY, 22-08-2026",
   youtubeVideoId: "jLRQfIxxeU4"
